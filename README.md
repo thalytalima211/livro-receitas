@@ -3,3 +3,5 @@
 * [Torta de Frango](https://github.com/thalytalima211/livro-receitas/blob/master/receitas/torta-de-frango.md)
 * [Pipoca Doce](https://github.com/thalytalima211/livro-receitas/blob/master/receitas/pipoca-doce.md)
 * [Panqueca Americana](https://github.com/thalytalima211/livro-receitas/blob/master/receitas/panqueca-americana.md)
+
+(Esse repositório foi criado para estudo das funcionalidades da linguagem de marcação MarkDown e do uso do Git)
